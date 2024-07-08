@@ -1,0 +1,17 @@
+{
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/next-pwa-page/",
+    "start_url": "/next-pwa-page/",
+    "name": "Next PWA Page",
+    "short_name": "NPP",
+    "description": "A Next.js PWA hosted on Github Pages",
+    "icons": [
+        {
+            "src": "/next-pwa-page/icon.png",
+            "sizes": "700x700",
+            "type": "image/png"
+        }
+    ]
+}
